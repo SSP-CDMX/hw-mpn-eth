@@ -1,7 +1,7 @@
-# hw-mpn-eth
+# Plataforma Mi Policía en Mi Negocio - Ethernet
 Hardware MPN Ethernet
-# Plataforma Mi Policía
-La plataforma  **Mi Policía** es un grupo de tecnologías aplicadas para la prevención e inhibición del delito, tecnologías que definen una red de alarmas silenciosas activadas mediante dispositivos móviles o electrónicos comunicadas por Internet.
+
+La plataforma  **Mi Policía en Mi Negocio** es un grupo de tecnologías aplicadas para la prevención e inhibición del delito, tecnologías que definen una red de alarmas silenciosas activadas mediante dispositivos móviles o electrónicos comunicadas por Internet.
 
 Esta plataforma consta de una parte pública y una parte controlada y administrada exclusivamente por la Policía de la Ciudad de México, por lo tanto **todos** los servicios que ofrece la plataforma son totalmente **gratuitos**.
 
