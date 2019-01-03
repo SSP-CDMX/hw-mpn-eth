@@ -8,7 +8,7 @@ Esta plataforma consta de una parte pública y una parte controlada y administra
 La parte controlada es una base de datos georeferenciada de los negocios afiliados y sus sucursales, a fin de brindar una URL que permite disparar una llamada de alerta en la infraestructura privada de la Policía, a fin de poder despachar la patrulla mas cercana.
 
 
-Si usted desea registrar su negocio le sugerimos llenar el [formulario de pre-registro. ](http://mipolicia.ssp.cdmx.gob.mx/mpn/preafiliacion){:target="_blank"}
+Si usted desea registrar su negocio le sugerimos llenar el [formulario de pre-registro. ](http://mipolicia.ssp.cdmx.gob.mx/mpn/preafiliacion)
 
 
 Lo que hay en este repositorio es la parte pública. 
