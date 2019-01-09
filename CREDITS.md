@@ -14,6 +14,8 @@ Maestro Enrique Granados Andrade
 
 Ingeniero Esteban Ramírez Tamayo
 
+Ingeniero Armando Velasco Jiménez
+
 Ingeniero Enrique Castillo Valencia
 
 Ingeniero Jonathan Rodolfo de la O de la O
@@ -27,8 +29,6 @@ Ingeniero Alonso Morales Hernández
 Maestra Noemi Torrez Rubio
 
 Licenciado Ivan Cruz Hernández 
-
-Ingeniero Armando Velasco Jiménez
 
 Licenciado Irving Oswaldo Lázaro Moreno
 
